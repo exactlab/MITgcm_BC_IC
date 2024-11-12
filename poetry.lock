@@ -22,8 +22,8 @@ viz = ["matplotlib (>3.7.5)"]
 [package.source]
 type = "git"
 url = "https://github.com/exactlab/bit.sea.git"
-reference = "vendored"
-resolved_reference = "6b09b9d420e32b6e27c93b4526ee0ec5f1f22c95"
+reference = "next-vendored"
+resolved_reference = "1df5f8654830706c3140eb617bb3728b85b72f6b"
 
 [[package]]
 name = "certifi"
@@ -647,4 +647,4 @@ viz = ["matplotlib", "nc-time-axis", "seaborn"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "ee118c07f6189b4baa346a5cd1fc416c107b67f6f1617195fb3e382705933b74"
+content-hash = "4c8f7789466c32a72754686eaadaf732907b5d7f1d2c7fc390335fbf4d701264"
