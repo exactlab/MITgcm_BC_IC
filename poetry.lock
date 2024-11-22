@@ -23,7 +23,7 @@ viz = ["matplotlib (>3.7.5)"]
 type = "git"
 url = "https://github.com/exactlab/bit.sea.git"
 reference = "next-vendored"
-resolved_reference = "1df5f8654830706c3140eb617bb3728b85b72f6b"
+resolved_reference = "ff8ed87ddc747624f4a73718ce9955e823fb530e"
 
 [[package]]
 name = "certifi"
